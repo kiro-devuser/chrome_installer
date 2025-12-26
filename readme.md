@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2025-12-26 02:29:21 (UTC-4)
+2025-12-26 08:37:45 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/dgdjjixyvljetwpu4uljiaca2a_145.0.7587.5/145.0.7587.5_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dgdjjixyvljetwpu4uljiaca2a_145.0.7587.5/145.0.7587.5_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：145.0.7599.1  
+**最新版本**：145.0.7600.1  
 **文件大小**：531.42 MB  
-**校验值（Sha256）**：4eadee6b1058111f6189015a9d0578c12969be80659c180e360d82d89779b3ab  
-**下载链接**：[https://dl.google.com/release2/chrome/acq5l6x4nekbnqxri5hixcqlt6yq_145.0.7599.1/145.0.7599.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acq5l6x4nekbnqxri5hixcqlt6yq_145.0.7599.1/145.0.7599.1_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：746687ad4187c682866fd14de0aee3ee7800bb9cdf09e850210b96a09400e4f2  
+**下载链接**：[https://dl.google.com/release2/chrome/accqwhq7hqsmtfba75x5k2b2orrq_145.0.7600.1/145.0.7600.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/accqwhq7hqsmtfba75x5k2b2orrq_145.0.7600.1/145.0.7600.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：145.0.7599.0  
-**文件大小**：428.52 MB  
-**校验值（Sha256）**：2be77c964f7708f454b3ab5278e6011862d834ba50e26082232ffcecddb4e874  
-**下载链接**：[https://dl.google.com/release2/chrome/ad3i4e45wq2ubjcleqqub47gcpsa_145.0.7599.0/145.0.7599.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad3i4e45wq2ubjcleqqub47gcpsa_145.0.7599.0/145.0.7599.0_chrome_installer_uncompressed.exe)  
+**最新版本**：145.0.7600.0  
+**文件大小**：428.39 MB  
+**校验值（Sha256）**：9ecb6303fe9acc5c06560e3b68a519192ef83cf4e8c540364a8e1e6d891107ca  
+**下载链接**：[https://dl.google.com/release2/chrome/adpopaiq5aaz7vfosikexymygdza_145.0.7600.0/145.0.7600.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adpopaiq5aaz7vfosikexymygdza_145.0.7600.0/145.0.7600.0_chrome_installer_uncompressed.exe)  
 
