@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-01-15 14:33:33 (UTC-4)
+2026-01-15 21:28:20 (UTC-4)
 
 
 ## 目录
@@ -52,14 +52,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/c42kdqpitut7nvibhev3egvbli_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/c42kdqpitut7nvibhev3egvbli_145.0.7620.3/145.0.7620.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：146.0.7635.0  
-**文件大小**：358.43 MB  
-**校验值（Sha256）**：2892c1bedd28a82a97448e580889a970154b46a4b40e0abf371ee0d24dbc18d5  
-**下载链接**：[https://dl.google.com/release2/chrome/h4semo5bag7pkfjalio73mm2fu_146.0.7635.0/146.0.7635.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/h4semo5bag7pkfjalio73mm2fu_146.0.7635.0/146.0.7635.0_chrome_installer_uncompressed.exe)  
+**最新版本**：146.0.7636.1  
+**文件大小**：539.46 MB  
+**校验值（Sha256）**：6a8837f0f319da4e49fec64af857e26e3653e385461b58f97d45b616650c63dd  
+**下载链接**：[https://dl.google.com/release2/chrome/pb5clfjl6bd4o74isidzujvxa4_146.0.7636.1/146.0.7636.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/pb5clfjl6bd4o74isidzujvxa4_146.0.7636.1/146.0.7636.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：146.0.7635.0  
-**文件大小**：438.26 MB  
-**校验值（Sha256）**：b0a33c255cc3fe810a52ede4ab2f4438e6126cf4794155ec3c3093c72cd7656b  
-**下载链接**：[https://dl.google.com/release2/chrome/accd76yesyislqsdgwkvl3xyu7za_146.0.7635.0/146.0.7635.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/accd76yesyislqsdgwkvl3xyu7za_146.0.7635.0/146.0.7635.0_chrome_installer_uncompressed.exe)  
+**最新版本**：146.0.7636.0  
+**文件大小**：438.1 MB  
+**校验值（Sha256）**：dd05a5fa7a88cbadc8c3ac400726b84c853074af84fd5e83adf99c01a9e8f05f  
+**下载链接**：[https://dl.google.com/release2/chrome/dpxpayoumqsjgp2ictrk6ey5zm_146.0.7636.0/146.0.7636.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dpxpayoumqsjgp2ictrk6ey5zm_146.0.7636.0/146.0.7636.0_chrome_installer_uncompressed.exe)  
 
