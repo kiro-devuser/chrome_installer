@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/rnamoy/chrome_installer/releases>
 
 最后检测更新时间
-2026-09-08 23:00:13 (UTC-4)
+2026-09-09 06:44:09 (UTC-4)
 
 
 ## 目录
@@ -58,8 +58,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adsigfup4nddusfnonxe4bc7ekva_155.0.8047.0/155.0.8047.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adsigfup4nddusfnonxe4bc7ekva_155.0.8047.0/155.0.8047.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：155.0.8047.0  
-**文件大小**：498.6 MB  
-**校验值（Sha256）**：f6bad89d6bd002a06e87a01abf1a8d273773ce986b5ac2553f77c409828e8bbf  
-**下载链接**：[https://dl.google.com/release2/chrome/acdswtx3wiya3xx76pwzlmrwkioa_155.0.8047.0/155.0.8047.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acdswtx3wiya3xx76pwzlmrwkioa_155.0.8047.0/155.0.8047.0_chrome_installer_uncompressed.exe)  
+**最新版本**：155.0.8047.1  
+**文件大小**：767.46 MB  
+**校验值（Sha256）**：1f29650b8f41ca45328f1db526223904b7858c15ece9138919789c4e298ff1ac  
+**下载链接**：[https://dl.google.com/release2/chrome/efpkktdtrajcjzebbo6d3gnvey_155.0.8047.1/155.0.8047.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/efpkktdtrajcjzebbo6d3gnvey_155.0.8047.1/155.0.8047.1_chrome_installer_uncompressed.exe)  
 
